@@ -33,6 +33,7 @@
 
   <depend>glslang-dev</depend>
   <depend>glslc</depend>
+  <depend>libatomic</depend>
   <depend>libboost-date-time-dev</depend>
   <depend>libboost-dev</depend>
   <depend>libboost-thread-dev</depend>
