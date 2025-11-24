@@ -2,7 +2,7 @@
 Changelog for package gz_ogre_next_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.1.2 (2025-11-24)
+0.1.1 (2025-11-24)
 ------------------
 * Kilted: 0.1.1 - gz_cmake as build_dep and libatomic as dep (`#11 <https://github.com/gazebo-release/gz_ogre_next_vendor/issues/11>`_)
   * Kilted: gz_cmake as build_dep and libatomic as dep
